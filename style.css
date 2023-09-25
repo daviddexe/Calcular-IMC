@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(63, 63, 149);
+}
+
+.conteiner {
+    background-color: white;
+    width: 500px;
+    position: relative;
+    left: 365px;
+    align-items: center;
+    text-align: center;
+    list-style-type: none;
+    line-height: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(196, 213, 255);;
+    
+}
+
+.conteiner2 {
+
+    position: relative;
+    left: 195px;
+    bottom: 294px;
+    align-items: center;
+    text-align: center;
+}
+
+p,
+h2 {
+    position: relative;
+    right: 91px;
+}
+
+
+#peso,
+#altura {
+    background-color: rgb(196, 213, 255);
+    position: relative;
+    right: 200px;
+    top: 85px;
+    align-items: center;
+    height: 24px;
+}
+
+label {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    top: 60px;
+    right: 95px;
+
+}
+.calcule{
+    position: relative;
+    right: 190px;
+    bottom: 25px;
+}
+
+.calcular{
+    position: relative;
+    background-color: rgb(196, 213, 255);
+    font-style: italic;
+    width: 150px;
+    height: 40px;
+    right: 190px;
+    top: 50px;
+}
+
+#resultado{
+    background-color:rgb(196, 213, 255); 
+    position: relative;
+    width: 260px;
+    height: 60px;
+    right: 70px;
+    top: 100px;
+    font-weight: 800;
+}
